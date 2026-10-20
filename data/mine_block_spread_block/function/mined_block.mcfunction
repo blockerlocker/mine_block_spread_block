@@ -1,0 +1,1 @@
+function mine_block_spread_block:spread with storage bldp:mined_block

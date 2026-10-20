@@ -1,0 +1,1 @@
+$execute positioned $(x) $(y) $(z) run function #when_block_mined:run with storage when_block_mined:temp all

@@ -1,0 +1,8 @@
+{
+    "values": [
+        "#bldp:load",
+        "iris:setup/load",
+        "when_block_mined:load",
+        "mine_block_spread_block:load"
+    ]
+}

@@ -1,0 +1,96 @@
+{
+    "values": [
+        {
+            "id": "minecraft:weeping_vines",
+            "required": false
+        },
+        {
+            "id": "minecraft:twisting_vines",
+            "required": false
+        },
+        {
+            "id": "minecraft:composter",
+            "required": false
+        },
+        {
+            "id": "#iris:shape_groups/black_candle",
+            "required": false
+        },
+        {
+            "id": "#iris:shape_groups/black_candle_cake",
+            "required": false
+        },
+        {
+            "id": "#iris:shape_groups/amethyst_cluster",
+            "required": false
+        },
+        {
+            "id": "minecraft:large_amethyst_bud",
+            "required": false
+        },
+        {
+            "id": "minecraft:medium_amethyst_bud",
+            "required": false
+        },
+        {
+            "id": "minecraft:small_amethyst_bud",
+            "required": false
+        },
+        {
+            "id": "#iris:shape_groups/calibrated_sculk_sensor",
+            "required": false
+        },
+        {
+            "id": "#iris:shape_groups/copper_golem_statue",
+            "required": false
+        },
+        {
+            "id": "minecraft:icicle",
+            "required": false
+        },
+        {
+            "id": "#iris:shape_groups/pointed_dripstone",
+            "required": false
+        },
+        {
+            "id": "minecraft:spore_blossom",
+            "required": false
+        },
+        {
+            "id": "#iris:shape_groups/azalea",
+            "required": false
+        },
+        {
+            "id": "#iris:shape_groups/pink_petals",
+            "required": false
+        },
+        {
+            "id": "minecraft:leaf_litter",
+            "required": false
+        },
+        {
+            "id": "minecraft:big_dripleaf",
+            "required": false
+        },
+        {
+            "id": "minecraft:big_dripleaf_stem",
+            "required": false
+        },
+        {
+            "id": "minecraft:hanging_roots",
+            "required": false
+        },
+        {
+            "id": "minecraft:frogspawn",
+            "required": false
+        },
+        {
+            "id": "minecraft:pale_moss_carpet",
+            "required": false
+        },
+        {
+            "id": "minecraft:pale_hanging_moss",
+            "required": false
+        }
+    ]
+}

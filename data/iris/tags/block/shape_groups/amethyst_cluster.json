@@ -1,0 +1,12 @@
+{
+    "values": [
+        {
+            "id": "minecraft:amethyst_cluster",
+            "required": false
+        },
+        {
+            "id": "minecraft:ice_crystal",
+            "required": false
+        }
+    ]
+}

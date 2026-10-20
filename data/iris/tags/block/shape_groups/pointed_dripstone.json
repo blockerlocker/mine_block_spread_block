@@ -1,0 +1,12 @@
+{
+    "values": [
+        {
+            "id": "minecraft:pointed_dripstone",
+            "required": false
+        },
+        {
+            "id": "minecraft:sulfur_spike",
+            "required": false
+        }
+    ]
+}

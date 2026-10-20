@@ -1,0 +1,12 @@
+{
+    "values": [
+        {
+            "id": "minecraft:camel",
+            "required": false
+        },
+        {
+            "id": "minecraft:camel_husk",
+            "required": false
+        }
+    ]
+}

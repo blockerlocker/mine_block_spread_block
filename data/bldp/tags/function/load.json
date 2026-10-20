@@ -1,0 +1,6 @@
+{
+    "values": [
+        "bldp:main/load",
+        "bldp:mined_block/load"
+    ]
+}
